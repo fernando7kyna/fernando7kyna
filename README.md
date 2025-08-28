@@ -1,6 +1,18 @@
-🚀 Fernando Lima | Desenvolvedor Full-Stack
-🎯 Em busca de oportunidades na área de Desenvolvimento de Software
-💻 Desenvolvedor Full-Stack | JavaScript, Node.js, Angular & Docker | Experiência em Metodologias Ágeis e Gestão de Projetos (Scrum, PMI Agile, IA Generativa aplicada)
+# 🚀 Fernando Lima | Desenvolvedor Full-Stack  
+
+🎯 **Em busca de oportunidades na área de Desenvolvimento de Software**  
+
+💻 **Stack Principal:**  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+
+📌 **Metodologias & Gestão de Projetos:**  
+![Scrum](https://img.shields.io/badge/Scrum-009FDA?style=for-the-badge&logo=scrumalliance&logoColor=white)  
+![PMI Agile](https://img.shields.io/badge/PMI-0072C6?style=for-the-badge&logo=microsoftproject&logoColor=white)  
+![IA Generativa](https://img.shields.io/badge/IA%20Generativa-FF6F00?style=for-the-badge&logo=openai&logoColor=white)  
+
 
 👨‍💻 Sobre mim
 Sou estudante do último semestre de Análise e Desenvolvimento de Sistemas na Estácio e estou em busca de uma oportunidade na área de desenvolvimento de software.
