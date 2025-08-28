@@ -60,6 +60,37 @@ Trabalhei com autenticação via JWT e integração com serviços em nuvem.
 ![IA Generativa](https://img.shields.io/badge/Generative%20AI-FF6F00?style=for-the-badge&logo=OpenAI&logoColor=white)  
 
 
+## 📂 Projetos em Destaque  
+
+### 🚀 TechPoint  
+[![GitHub Repo](https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fernando7kyna/TechPoint-main)  
+[![Website](https://img.shields.io/badge/Demo-4285F4?style=for-the-badge&logo=vercel&logoColor=white)](https://tech-point-main.vercel.app/)  
+
+---
+
+### 🛡️ Sistema de Gerenciamento de Portaria  
+[![GitHub Repo](https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fernando7kyna/gerenciamento-cadastro-mobile-web)  
+[![Website](https://img.shields.io/badge/Demo-4285F4?style=for-the-badge&logo=vercel&logoColor=white)](https://gerenciamento-cadastro-mobile-web-b.vercel.app/)  
+
+---
+
+### 🌐 FLD Apresentação WEB  
+[![GitHub Repo](https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fernando7kyna/FLD--apresentacao-WEB)  
+[![Website](https://img.shields.io/badge/Demo-4285F4?style=for-the-badge&logo=vercel&logoColor=white)](https://fld-apresentacao-web.vercel.app/)  
+
+---
+
+### 📊 Dashboard de Tarefas  
+[![GitHub Repo](https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fernando7kyna/gerenciamento_tarefas_SQL)  
+[![Website](https://img.shields.io/badge/Demo-4285F4?style=for-the-badge&logo=vercel&logoColor=white)](https://gerenciamento-tarefas-sql-1ync.vercel.app/login)  
+
+---
+
+### 🚗 FLD Veículos  
+[![GitHub Repo](https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fernando7kyna/FLD-veiculos)  
+[![Website](https://img.shields.io/badge/Demo-4285F4?style=for-the-badge&logo=vercel&logoColor=white)](https://fld-veiculos-sbns.vercel.app/)  
+
+
 
 📜 Certificações
 - Bootcamp JavaScript Completo do Zero ao Avançado 2025 (Udemy – Andre Iacono)
