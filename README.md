@@ -1,6 +1,6 @@
 🚀 Fernando Lima | Desenvolvedor Full-Stack
 🎯 Em busca de oportunidades na área de Desenvolvimento de Software
-💻 Especializado em JavaScript, Full-Stack, Flutter, IA Generativa e Metodologias Ágeis
+💻 Desenvolvedor Full-Stack | JavaScript, Node.js, Angular & Docker | Experiência em Metodologias Ágeis e Gestão de Projetos (Scrum, PMI Agile, IA Generativa aplicada)
 
 👨‍💻 Sobre mim
 Sou estudante do último semestre de Análise e Desenvolvimento de Sistemas na Estácio e estou em busca de uma oportunidade na área de desenvolvimento de software.
@@ -10,8 +10,10 @@ Tenho certificações em JavaScript Completo e Desenvolvimento Full-Stack, com e
 Recentemente, ampliei minha formação com cursos do Project Management Institute (PMI), consolidando conhecimentos em Inteligência Artificial Generativa e Metodologias Ágeis, como Scrum.
 
 Cursos em destaque:
-📌 Visão geral de IA generativa para gerentes de projetos – Aplicações práticas de IA Generativa na gestão de projetos
-📌 The Basics of Scrum – Fundamentos sólidos de Scrum e colaboração em equipes ágeis
+- Bootcamp JavaScript Completo do Zero ao Avançado 2025 (Udemy – Andre Iacono)
+- Curso Web Moderno Completo com JavaScript + Projetos (Udemy – Leonardo Leitão, Cod3r)
+- Docker Completo do Zero ao Avançado (Udemy – Andre Iacono)
+- Fundamentos de Gerenciamento de Projetos – PMI(Project Management Institute)
 
 Atualmente, continuo me especializando e explorando novas tecnologias para potencializar minha atuação como desenvolvedor.
 
@@ -44,31 +46,24 @@ Auxiliei no planejamento e entrega de funcionalidades em ambiente ágil (Scrum).
 
 Trabalhei com autenticação via JWT e integração com serviços em nuvem.
 
-🧰 Tecnologias e Ferramentas
+## 🚀 Tecnologias & Ferramentas  
 
-📱 Mobile
-✔ Flutter 3+
-✔ Dart
-✔ Firebase Auth
-✔ Arquitetura Modular & Clean Code
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+![Scrum](https://img.shields.io/badge/Scrum-009FDA?style=for-the-badge&logo=scrumalliance&logoColor=white)  
+![PMI](https://img.shields.io/badge/PMI-0072C6?style=for-the-badge&logo=microsoftproject&logoColor=white)  
+![IA Generativa](https://img.shields.io/badge/Generative%20AI-FF6F00?style=for-the-badge&logo=OpenAI&logoColor=white)  
 
-🚀 Frontend
-✔ HTML5 e CSS3
-✔ JavaScript (ES6+)
-✔ Angular
 
-🖥 Backend
-✔ Node.js
-✔ Express.js
-✔ MongoDB (mongosh)
-
-⚙ Metodologias Ágeis
-✔ Scrum
-✔ Kanban
 
 📜 Certificações
-🎓 JavaScript Completo do Zero ao Avançado + Projetos Reais
-🎓 Desenvolvimento Web Moderno com JavaScript
-🎓 Certificação Scrum – PMI
-🎓 Visão geral de IA generativa para gerentes de projetos – PMI
+- Bootcamp JavaScript Completo do Zero ao Avançado 2025 (Udemy – Andre Iacono)
+- Curso Web Moderno Completo com JavaScript + Projetos (Udemy – Leonardo Leitão, Cod3r)
+- Docker Completo do Zero ao Avançado (Udemy – Andre Iacono)
+- Fundamentos de Gerenciamento de Projetos – PMI(Project Management Institute)
 
