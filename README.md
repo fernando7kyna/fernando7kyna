@@ -6,11 +6,16 @@
 
 ## 👨‍💻 Sobre mim  
 
-Sou **formado em Análise e Desenvolvimento de Sistemas pela Estácio** e atuo como **Desenvolvedor Full-Stack**.  
+Sou **Fernando Lima**, Desenvolvedor **Full-Stack** formado em **Análise e Desenvolvimento de Sistemas (Estácio)**, com experiência prática em **projetos web e mobile**, do **frontend ao backend**.  
 
-Tenho certificações em **JavaScript Completo** e **Desenvolvimento Full-Stack**, com experiência prática em projetos **robustos e escaláveis**, atuando tanto no **frontend** quanto no **backend**.  
+Tenho certificações em **JavaScript Completo**, **Desenvolvimento Full-Stack** e **Lógica de Programação em Java**, além de experiência em **Java + Spring Boot, Node.js, Angular, React e Docker**.  
 
-Recentemente, ampliei minha formação com cursos do **Project Management Institute (PMI)**, consolidando conhecimentos em **Inteligência Artificial Generativa** e **Metodologias Ágeis (Scrum)**.  
+Participei de projetos **robustos e escaláveis**, aplicando **boas práticas de arquitetura de software**, versionamento com **Git/GitHub** e **metodologias ágeis (Scrum)**.  
+
+Recentemente, ampliei minha formação com cursos do **PMI**, explorando aplicações de **Inteligência Artificial Generativa** e práticas avançadas de **gestão ágil de projetos**.  
+
+📌 Busco oportunidades como **Desenvolvedor Full-Stack Júnior** para aplicar meus conhecimentos, evoluir profissionalmente e contribuir com soluções inovadoras.  
+
 
 ---
 
