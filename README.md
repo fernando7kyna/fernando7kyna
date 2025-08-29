@@ -95,8 +95,10 @@ Recentemente, ampliei minha formação com cursos do **Project Management Instit
 
 - ![Udemy](https://img.shields.io/badge/Bootcamp%20JavaScript%20Completo-EC5252?style=for-the-badge&logo=udemy&logoColor=white)  
 - ![Udemy](https://img.shields.io/badge/Web%20Moderno%20Completo%20com%20JavaScript-EC5252?style=for-the-badge&logo=udemy&logoColor=white)  
-- ![Udemy](https://img.shields.io/badge/Docker%20Completo%20do%20Zero%20ao%20Avançado-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+- ![Udemy](https://img.shields.io/badge/Docker%20Completo%20do%20Zero%20ao%20Avan%C3%A7ado-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
 - ![PMI](https://img.shields.io/badge/Fundamentos%20de%20Gerenciamento%20de%20Projetos%20(PMI)-0072C6?style=for-the-badge&logo=microsoftproject&logoColor=white)  
+- ![Java](https://img.shields.io/badge/Linguagem%20de%20Programa%C3%A7%C3%A3o%20JAVA%20para%20Iniciantes-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
+
 
 ---
 
