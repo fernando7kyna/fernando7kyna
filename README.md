@@ -6,15 +6,28 @@
 
 ## 👨‍💻 Sobre mim  
 
-Sou **Fernando Lima**, Desenvolvedor **Full-Stack** formado em **Análise e Desenvolvimento de Sistemas (Estácio)**, com experiência prática em **projetos web e mobile**, do **frontend ao backend**.  
+Bem-vindo ao meu Github! Sou o Fernando Lima, o Full-Stack Developer que transforma ideias em realidade com código, café e energia inabalável! ☕️💻 
 
-Tenho certificações em **JavaScript Completo**, **Desenvolvimento Full-Stack** e **Lógica de Programação em Java**, além de experiência em **Java + Spring Boot, Node.js, Angular, React e Docker**.  
+Sou movido pela paixão de criar soluções digitais que não só funcionam, como também brilham! Munido de tecnologias modernas como React, Angular e Next.js, utilizo TypeScript, JavaScript, HTML5 e CSS3 para criar interfaces intuitivas, responsivas e de alto desempenho.
+ No backend, domino o Node.js, e o SQL, além de dominar a gestão de estados complexos com o Redux e garantir uma qualidade superior com o  Jest e o Cypress. 
+Para mim, o único limite é o tamanho da minha caneca de café!
 
-Participei de projetos **robustos e escaláveis**, aplicando **boas práticas de arquitetura de software**, versionamento com **Git/GitHub** e **metodologias ágeis (Scrum)**.  
+Os meus Superpoderes Técnicos:
+Construir interfaces responsivas e acessíveis com React, Angular e Next.js.
+Criar APIs e sistemas backend robustos com Node.js, e SQL. 
+Dominar a gestão de estados com Redux e garantir a qualidade com Jest e Cypress.
+Implementar e personalizar soluções ERP com o PHC CS Enterprise.
+Otimizar o desempenho e a escalabilidade para aplicações que deixam a sua marca.
 
-Recentemente, ampliei minha formação com cursos do **PMI**, explorando aplicações de **Inteligência Artificial Generativa** e práticas avançadas de **gestão ágil de projetos**.  
+As Minhas Competências Interpessoais (O Que Me Torna um Astro da Equipa):
 
-📌 Busco oportunidades como **Desenvolvedor Full-Stack Júnior** para aplicar meus conhecimentos, evoluir profissionalmente e contribuir com soluções inovadoras.  
+Colaboração imbatível: Sincronizo-me perfeitamente com designers, gestores de produto e developers.
+Capacidade de resolução de problemas: Transformo desafios técnicos em soluções práticas e inovadoras.
+Adaptabilidade de alto nível: Domino novas tecnologias e métodos à velocidade da luz.
+Comunicação cristalina: Alinho as expectativas com energia e precisão.
+Gestão de tempo ao nível ninja: Entrego projetos de alta qualidade dentro do prazo, sempre.
+
+Com café, estas pilhas de tecnologia e a minha paixão pela programação, tudo é possível! Se procura um developer full-stack que combine expertise comprovada, energia contagiante e compromisso com os resultados, entre em contacto! Estou pronto para impulsionar projetos inovadores e elevar as suas ideias a um novo patamar.
 
 
 ---
